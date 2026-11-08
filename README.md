@@ -292,4 +292,8 @@ Project parts:
   - BMR & calorie calculator page (includes daily calories and goals)
 
 
+---
 
+## Author
+
+Built by **[Shafin Zaman](https://www.shafinzaman.dev)** (Shafin Uz Zaman), Senior AI Engineer. Case study: [TabeebAI](https://www.shafinzaman.dev/work/tabeeb-ai). More of my work: [shafinzaman.dev/work](https://www.shafinzaman.dev/work).
